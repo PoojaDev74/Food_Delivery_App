@@ -50,7 +50,7 @@ It also includes an *Admin Dashboard* for managing restaurants, menu items, and 
 
 🌐 Live Demo
 
-Client: [(https://foodappclient1.onrender.com")]
+Client: [(https://foodappclient1.onrender.com)]
 
 Admin: [(https://foodapp-admin-cola.onrender.com)]
 
