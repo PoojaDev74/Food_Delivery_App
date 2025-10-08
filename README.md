@@ -75,6 +75,17 @@ npm install start
 
 ---
 
+🧾 License
 
+This project is licensed under the MIT License.
+
+
+---
+
+👩‍💻 Author
+
+Pooja D
+LinkedIn: linkedin.com/in/poojadevaraj 
+GitHub: https://github.com/PoojaDev74
 
 
