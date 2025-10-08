@@ -48,6 +48,16 @@ It also includes an *Admin Dashboard* for managing restaurants, menu items, and 
 
 ---
 
+🌐 Live Demo
+
+Client: [(https://foodappclient1.onrender.com")]
+
+Admin: [(https://foodapp-admin-cola.onrender.com)]
+
+Backend API: [(https://foodapp-server-t1i3.onrender.com)]
+
+---
+
 ## 🧩 Environment Setup
 
 ### 🔹 Clone the Repository
@@ -65,25 +75,6 @@ npm install start
 
 ---
 
-🌐 Live Demo
-
-Client: [(https://foodappclient1.onrender.com")]
-
-Admin: [(https://foodapp-admin-cola.onrender.com)]
-
-Backend API: [(https://foodapp-server-t1i3.onrender.com)]
-
----
-
-🧾 License
-
-This project is licensed under the MIT License.
 
 
----
 
-👩‍💻 Author
-
-Pooja D
-LinkedIn: linkedin.com/in/poojadevaraj 
-GitHub: https://github.com/PoojaDev74
