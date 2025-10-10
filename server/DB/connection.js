@@ -1,5 +1,5 @@
 const mongoose = require("mongoose");
-mongoose.connect("mongodb+srv://kasulavaishnavi4:Kasula2002@cluster0.dyqj3fj.mongodb.net/food")
+mongoose.connect(process.env.MONGO_URI)
 .then(()=>{
     console.log("connection established")
 }).catch((err)=>{
